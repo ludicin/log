@@ -1,6 +1,5 @@
-# learning log
+## learning log
 
-# 记录学习进度
 
 # Week01:
 
