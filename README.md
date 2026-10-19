@@ -51,3 +51,16 @@
 - 学习AlexNet相关内容
 - 了解VGG，NiN、GoogLeNet内容
 - 学习批量归一化相关内容
+
+
+# Week06
+
+## 学习内容
+- AlexNet及实现
+- VGG、NiN
+
+## 下周计划
+- 学习GoogLeNet
+- 学习批量归一化相关内容
+- 学习ResNet相关内容
+
